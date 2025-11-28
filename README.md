@@ -173,7 +173,3 @@ If you'd like, I can also:
 - Add `README.md` to the repository (done) and optionally update `requirements.txt` to include `yfinance`.
 - Create a `.env.example` file with the template above.
 - Add a short PowerShell script to automate virtualenv + install + DB setup.
-
-Contact
--------
-If you want further help packaging this for Docker, adding CI, or preparing a GitHub release, tell me which you'd like next.
